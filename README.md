@@ -12,4 +12,4 @@
 
 2주차
 
-[배열과 구조체](https://www.notion.so/ba6d23e206d94a4db546649432e0f60c)
+<a href="https://github.com/chiyongs/DataStructure-study/blob/master/2%EC%A3%BC%EC%B0%A8/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.md">[배열과 구조체]</a>
